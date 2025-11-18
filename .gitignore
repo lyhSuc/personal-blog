@@ -1,0 +1,29 @@
+# 系统生成的文件
+Thumbs.db
+.DS_Store
+nul
+
+# IDE和编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 临时文件
+*.tmp
+*.temp
+
+# 日志文件
+*.log
+
+# Hugo相关
+public/
+resources/
+
+# 如果后续有Node.js项目
+node_modules/
+package-lock.json
+
+# 环境变量文件
+.env
+.env.local
